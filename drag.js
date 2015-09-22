@@ -3,5 +3,6 @@
  */
 function drag(id){
    var obj= document.getElementById(id);
+   var odiv =document.getElementById(div);
 
 }
